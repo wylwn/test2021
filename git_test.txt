@@ -1,6 +1,11 @@
 aaaaaaaaa
 bbbbbbbbb
+<<<<<<< HEAD
 adf
 asdfadadfasdfsa
 adfafd
 dddddddddddddddddddddddddddddddd
+=======
+cccccccccccccc
+ddddddddd
+>>>>>>> hot_fix
