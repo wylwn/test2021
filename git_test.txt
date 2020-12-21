@@ -1,11 +1,3 @@
-aaaaaaaaa
-bbbbbbbbb
-<<<<<<< HEAD
-adf
-asdfadadfasdfsa
-adfafd
-dddddddddddddddddddddddddddddddd
-=======
-cccccccccccccc
-ddddddddd
->>>>>>> hot_fix
+git合并是什么意思呢
+
+不知道 呀
